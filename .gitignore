@@ -32,6 +32,7 @@ httpd.parse.errors
 # build folder - for ILMerged output
 build
 build/*
+Release
 
  
 # Exclude ALL DLLs? (
